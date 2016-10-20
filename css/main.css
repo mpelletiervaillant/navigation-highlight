@@ -16,8 +16,7 @@ body {
 header {
   background-color: #ffe500;
   text-align: center;
-  padding: 10px;
-  margin: 0;
+  margin: 0
 }
 
 h1 {
@@ -28,10 +27,10 @@ h1 {
   margin: 0 0 .2em;
 }
 
-ol {
-  padding: .3em;
+ul {
   margin:0;
-  padding: .2em .5em .3em;
+  padding: 0 0 .4em;
+  display: inline-block;
 }
 
 a {
@@ -68,7 +67,6 @@ footer {
   text-align: center;
   background-color: #ffe500;
   padding: 10px;
-  font-size: .3em;
 }
 
 .berries a:hover {
@@ -77,4 +75,9 @@ footer {
 
 .berries .current {
   background-color: #b20953;
+}
+
+nav {
+  display: inline-block;
+  padding: 10px;
 }
