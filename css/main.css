@@ -58,8 +58,15 @@ h2 {
   font-size: 1.875rem;
 }
 
+img {
+  display: block;
+  width: 100%;
+  padding-right: 10px;
+
+}
+
 footer {
   text-align: center;
   background-color: #ffe500;
- padding: .2em .5em .3em;
+  padding: .2em .5em .3em;
 }
