@@ -51,7 +51,6 @@ div {
   padding-left: 10px;
 }
 
-
 h2 {
   font-family: "Sigmar One";
   color: #cc1465;
@@ -65,7 +64,6 @@ img {
   display: block;
   width: 100%;
   padding-right: 10px;
-
 }
 
 footer {
@@ -78,6 +76,7 @@ footer {
 .berries a:hover {
   background-color: #b20953;
 }
+
 .berries .current {
   background-color: #2f2d13;
 }
