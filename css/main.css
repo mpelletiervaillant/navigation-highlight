@@ -16,7 +16,7 @@ body {
 header {
   background-color: #ffe500;
   text-align: center;
-  margin: 0
+  margin: 0;
 }
 
 h1 {
@@ -38,7 +38,7 @@ a {
   text-decoration: none;
   color: white;
   background-color: #b2a212;
-  padding: .5em .5em .5em;
+  padding: .4em .5em .4em;
   border-radius: 4px;
 }
 
@@ -46,16 +46,20 @@ li {
   list-style-type: none;
   display: inline-block;
   font-size: 1.125rem;
-  }
+}
 
 div {
-  margin-left: 1em;
+  margin-left: .8em;
 }
 
 h2 {
   font-family: "Sigmar One";
   color: #b20953;
   font-size: 1.875rem;
+}
+
+b {
+  color: #2f2d13;
 }
 
 img {
@@ -68,10 +72,11 @@ footer {
   text-align: center;
   background-color: #ffe500;
   padding: 10px;
+  font-size: .9rem;
 }
 
 .berries a:hover {
-  background-color: #2f2d13;
+  background-color: #cc1465;
 }
 
 .berries .current {
