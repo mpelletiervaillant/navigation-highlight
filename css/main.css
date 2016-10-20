@@ -24,7 +24,8 @@ h1 {
   color: #b20953;
   text-align: center;
   font-size: 3rem;
-  margin: 0 0 .2em;
+  padding-bottom: 14px;
+  margin: 0;
 }
 
 ul {
@@ -37,7 +38,7 @@ a {
   text-decoration: none;
   color: white;
   background-color: #b2a212;
-  padding: 10px;
+  padding: .5em .5em .5em;
   border-radius: 4px;
 }
 
@@ -45,10 +46,10 @@ li {
   list-style-type: none;
   display: inline-block;
   font-size: 1.125rem;
-}
+  }
 
 div {
-  padding-left: 10px;
+  margin-left: 1em;
 }
 
 h2 {
@@ -79,5 +80,5 @@ footer {
 
 nav {
   display: inline-block;
-  padding: 10px;
+  padding-bottom: 10px;
 }
