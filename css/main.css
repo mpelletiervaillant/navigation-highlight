@@ -22,7 +22,7 @@ header {
 
 h1 {
   font-family: "Sigmar One";
-  color: #cc1465;
+  color: #b20953;
   text-align: center;
   font-size: 3rem;
   margin: 0 0 .2em;
@@ -45,6 +45,7 @@ a {
 li {
   list-style-type: none;
   display: inline-block;
+  font-size: 1.125rem;
 }
 
 div {
@@ -53,12 +54,8 @@ div {
 
 h2 {
   font-family: "Sigmar One";
-  color: #cc1465;
+  color: #b20953;
   font-size: 1.875rem;
-}
-
-.first {
-  font-size: 1.125rem;
 }
 
 img {
@@ -75,9 +72,9 @@ footer {
 }
 
 .berries a:hover {
-  background-color: #b20953;
+  background-color: #2f2d13;
 }
 
 .berries .current {
-  background-color: #2f2d13;
+  background-color: #b20953;
 }
